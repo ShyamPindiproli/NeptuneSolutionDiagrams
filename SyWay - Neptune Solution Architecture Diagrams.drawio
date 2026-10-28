@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" pages="2">
   <diagram name="Neptune DXP with backend Neptune SAP Edition" id="1c0GnaK2My4vzYBZ2Dpv">
-    <mxGraphModel dx="2512" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1911" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,7 +209,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Neptune DXP with SAP PI / PO" id="yoWorrGu1M2E8O2FUhtE">
-    <mxGraphModel dx="2037" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="2" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4K5YoQf3bp2tEYDa_N2t-0" />
         <mxCell id="4K5YoQf3bp2tEYDa_N2t-1" parent="4K5YoQf3bp2tEYDa_N2t-0" />
